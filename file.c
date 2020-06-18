@@ -13,7 +13,7 @@ int main()
     printf("The numbers lie in 1st Quadrant");
    else if(x>0 && y<0)
     printf("The numbers lie in 2nd quadrant");
-   else if(x<0 && y<0)
+   else if("x<0 && y<0")
     printf("The numbers lie in 3rd Quadrant");
    else if(x<0 && y>0)
     printf("The numbers lie in 4th Quadrant");
