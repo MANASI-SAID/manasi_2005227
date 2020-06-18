@@ -4,9 +4,9 @@
 int main()
 {
    int x,y;
-   printf("Enter x: \n");
+   printf("Enter x coordinate: \n");
    scanf("%d",&x);
-   printf("Enter y: \n");
+   printf("Enter y coordinate: \n");
    scanf("%d",&y);
 
    if(x>0 && y>0)
