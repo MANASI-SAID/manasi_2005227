@@ -10,12 +10,12 @@ int main()
    scanf("%d",&y);
 
    if(x>0 && y>0)
-    printf("1st Quadrant");
+    printf("The numbers lie in 1st Quadrant");
    else if(x>0 && y<0)
-    printf("2nd quadrant");
+    printf("The numbers lie in 2nd quadrant");
    else if(x<0 && y<0)
-    printf("3rd Quadrant");
-   else if("x<0 && y>0")
-    printf("4th Quadrant");
+    printf("The numbers lie in 3rd Quadrant");
+   else if(x<0 && y>0)
+    printf("The numbers lie in 4th Quadrant");
 
 }
